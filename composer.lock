@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4ec71d411bc4910208e6078aaddf6361",
+    "content-hash": "4fa083be13966def8c67c2d5de6be742",
     "packages": [
         {
             "name": "bacon/bacon-qr-code",
@@ -6315,16 +6315,16 @@
         },
         {
             "name": "wireui/wireui",
-            "version": "v1.11.2",
+            "version": "v1.12.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wireui/wireui.git",
-                "reference": "11beae1b3e2c39e833908dbc918a42d2a5dce023"
+                "reference": "e5a734f88d4973f6fe437d667e2c53b1150422e3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wireui/wireui/zipball/11beae1b3e2c39e833908dbc918a42d2a5dce023",
-                "reference": "11beae1b3e2c39e833908dbc918a42d2a5dce023",
+                "url": "https://api.github.com/repos/wireui/wireui/zipball/e5a734f88d4973f6fe437d667e2c53b1150422e3",
+                "reference": "e5a734f88d4973f6fe437d667e2c53b1150422e3",
                 "shasum": ""
             },
             "require": {
@@ -6377,7 +6377,7 @@
             ],
             "support": {
                 "issues": "https://github.com/wireui/wireui/issues",
-                "source": "https://github.com/wireui/wireui/tree/v1.11.2"
+                "source": "https://github.com/wireui/wireui/tree/v1.12.1"
             },
             "funding": [
                 {
@@ -6385,7 +6385,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-07-08T14:02:37+00:00"
+            "time": "2022-07-10T09:53:07+00:00"
         }
     ],
     "packages-dev": [
@@ -9057,7 +9057,7 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^8.0.2"
+        "php": "^8.0"
     },
     "platform-dev": [],
     "plugin-api-version": "2.3.0"
