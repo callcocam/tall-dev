@@ -1,6 +1,6 @@
 {
-    "/js/app.js": "/js/app.js",
-    "/js/report.js": "/js/report.js",
-    "/css/report.css": "/css/report.css",
-    "/css/app.css": "/css/app.css"
+    "/js/app.js": "/js/app.js?id=18b78a202145291908d2f075cf136e25",
+    "/js/report.js": "/js/report.js?id=a38602b73beacefc59726e894fbde4bf",
+    "/css/report.css": "/css/report.css?id=02235bbf88c745ad1c5319cdbeac2ecd",
+    "/css/app.css": "/css/app.css?id=02235bbf88c745ad1c5319cdbeac2ecd"
 }
