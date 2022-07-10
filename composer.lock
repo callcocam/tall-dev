@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c957f8f5db13e22764f4b3e34e81e10f",
+    "content-hash": "81ea72efe5c310d442b46170d04c6921",
     "packages": [
         {
             "name": "bacon/bacon-qr-code",
@@ -126,21 +126,21 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/callcocam/tall-acl.git",
-                "reference": "a4c7d068c08837a754e3916e9c79bab3b713adac"
+                "reference": "42695ab11d4949c69c6cfd6f7be9b09c118631c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/callcocam/tall-acl/zipball/a4c7d068c08837a754e3916e9c79bab3b713adac",
-                "reference": "a4c7d068c08837a754e3916e9c79bab3b713adac",
+                "url": "https://api.github.com/repos/callcocam/tall-acl/zipball/42695ab11d4949c69c6cfd6f7be9b09c118631c1",
+                "reference": "42695ab11d4949c69c6cfd6f7be9b09c118631c1",
                 "shasum": ""
             },
             "require": {
                 "callcocam/tall-schema": "dev-main",
                 "callcocam/tall-sluggable": "dev-main",
-                "laravel/jetstream": "^2.9",
+                "laravel/jetstream": "^2.5",
                 "livewire/livewire": "^2.5",
                 "php": "^7.3|^8.0",
-                "wireui/wireui": "^1.7"
+                "wireui/wireui": "^1.5"
             },
             "default-branch": true,
             "type": "package",
@@ -172,7 +172,7 @@
                 "issues": "https://github.com/callcocam/tall-acl/issues",
                 "source": "https://github.com/callcocam/tall-acl/tree/main"
             },
-            "time": "2022-07-10T01:54:16+00:00"
+            "time": "2022-07-10T23:42:57+00:00"
         },
         {
             "name": "callcocam/tall-report",
@@ -180,12 +180,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/callcocam/tall-report.git",
-                "reference": "c8fae7da1192a77a399876e527f903db5fb8b0ee"
+                "reference": "768e7f5d40961db77b49bf11ba8830735028f2b1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/callcocam/tall-report/zipball/c8fae7da1192a77a399876e527f903db5fb8b0ee",
-                "reference": "c8fae7da1192a77a399876e527f903db5fb8b0ee",
+                "url": "https://api.github.com/repos/callcocam/tall-report/zipball/768e7f5d40961db77b49bf11ba8830735028f2b1",
+                "reference": "768e7f5d40961db77b49bf11ba8830735028f2b1",
                 "shasum": ""
             },
             "require": {
@@ -193,10 +193,10 @@
                 "callcocam/tall-schema": "dev-main",
                 "callcocam/tall-sluggable": "dev-main",
                 "doctrine/dbal": "^3.3",
-                "laravel/jetstream": "^2.9",
+                "laravel/jetstream": "^2.5",
                 "livewire/livewire": "^2.5",
                 "php": "^7.3|^8.0",
-                "wireui/wireui": "^1.7"
+                "wireui/wireui": "^1.5"
             },
             "default-branch": true,
             "type": "package",
@@ -228,7 +228,7 @@
                 "issues": "https://github.com/callcocam/tall-report/issues",
                 "source": "https://github.com/callcocam/tall-report/tree/main"
             },
-            "time": "2022-07-10T03:06:03+00:00"
+            "time": "2022-07-10T23:43:28+00:00"
         },
         {
             "name": "callcocam/tall-schema",
@@ -9057,8 +9057,8 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^8.0"
+        "php": "^8.0.1"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "plugin-api-version": "2.1.0"
 }
